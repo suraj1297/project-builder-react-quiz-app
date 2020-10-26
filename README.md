@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-## Available Scripts
+# ProGrad PROJECT BUILDER | REACT - QUIZ STAGE IV - QUIZ - COMPLETE
 
-In the project directory, you can run:
+## Learning Goals
 
-### `npm start`
+In this exercise, the goal is to learn building a complete quiz app on a stage by stage basis:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Timer component in react,
+- props,state
+- components
+- Event handler
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Getting started
 
-### `npm test`
+1. Fork this repo
+2. Clone this repo
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Whenever you create a first significant change, you should make your first commit.
 
-### `npm run build`
+3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In the end of this document, you will find guidelines on how to submit the exercise.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Introduction
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We will continue to improve our code from where we left previously. We will complete the entire quiz today.
 
-### `npm run eject`
+**Note: use rcc to generate the code template.**.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+So let's get started!
+Check below to see the overall output: You will be trying to replicate this
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Image description](https://i1.faceprep.in/ProGrad/quizfulloutput.gif)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### PROGRESSION 1 | KEEP A NOTE OF TIME
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Your task in this iteration is to complete the total quiz application. Keep a timer at the right end and the timer should run for 2 mins. At the end of two mins the quiz should be closed.
 
-## Learn More
+### PROGRESSION 2 | REPLACE ME
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Instead of fetching data from the existing json array and replace the it by fetching from the api provided below.
+`https://my-json-server.typicode.com/Naveen132895/quiz-api/questions`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Bonus | TIMER FOR EVERY QUESTION
 
-### Code Splitting
+Keep a timer for every question. The questions should change within 10 seconds.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Submission
 
-### Analyzing the Bundle Size
+If you didn't add, commit and push the changes you made, this is the last call. :smile:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+please share your github links with your Mentors. Your Mentor's will check up your work and provide feedback.
 
-### Making a Progressive Web App
+## Summary
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+If you managed to do it, good job! :trophy:
 
-### Advanced Configuration
+We are proud of you!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Happy Coding ProGrad ❤️!
