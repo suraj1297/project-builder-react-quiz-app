@@ -55,3 +55,8 @@
 .option:hover {
   background-color: #b0cac7;
 }
+
+.question a {
+  text-decoration: none;
+  color: black;
+}
